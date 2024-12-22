@@ -1,0 +1,30 @@
+/* Footer Styles */
+.footer-container {
+    background-color: #282c34; /* Dark background */
+    color: white;
+    padding: 1.5rem 1rem;
+    text-align: center;
+  }
+  
+  .footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .footer-links {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+  }
+  
+  .footer-link {
+    color: #61dafb; /* Light blue link color */
+    text-decoration: none;
+    font-size: 0.9rem;
+  }
+  
+  .footer-link:hover {
+    text-decoration: underline;
+  }
+  

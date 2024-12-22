@@ -1,0 +1,301 @@
+{
+  "trips": [
+    {
+      "id": "1",
+      "name": "Weekend in Paris",
+      "imageUrl": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=800&q=80",
+      "description": "Experience the magic of Paris in this wonderful weekend getaway. Visit the Eiffel Tower, explore Louvre, and enjoy French cuisine.",
+      "price": 1299.99,
+      "startDate": "2024-06-15",
+      "endDate": "2024-06-17",
+      "availableSlots": 5,
+      "totalSlots": 20
+    },
+    {
+      "id": "2",
+      "name": "Tokyo Adventure",
+      "imageUrl": "https://images.unsplash.com/photo-1536098561742-ca998e48cbcc?auto=format&fit=crop&w=800&q=80",
+      "description": "Discover the blend of traditional and modern Japan in Tokyo. Visit temples, enjoy sushi, and explore vibrant neighborhoods.",
+      "price": 2499.99,
+      "startDate": "2024-07-10",
+      "endDate": "2024-07-17",
+      "availableSlots": 8,
+      "totalSlots": 15
+    },
+    {
+      "id": "3",
+      "name": "New York City Explorer",
+      "imageUrl": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?auto=format&fit=crop&w=800&q=80",
+      "description": "The city that never sleeps awaits! Times Square, Central Park, Broadway shows, and much more.",
+      "price": 1899.99,
+      "startDate": "2024-08-20",
+      "endDate": "2024-08-25",
+      "availableSlots": 0,
+      "totalSlots": 10
+    },
+    {
+      "id": "4",
+      "name": "Safari in Kenya",
+      "imageUrl": "https://images.unsplash.com/photo-1534177616072-ef7dc120449d?auto=format&fit=crop&w=800&q=80",
+      "description": "Experience the wild beauty of Africa on this unforgettable safari adventure. Witness the great migration and spot the Big Five.",
+      "price": 3999.99,
+      "startDate": "2024-09-01",
+      "endDate": "2024-09-08",
+      "availableSlots": 6,
+      "totalSlots": 12
+    },
+    {
+      "id": "5",
+      "name": "Greek Islands Cruise",
+      "imageUrl": "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=800&q=80",
+      "description": "Island hop through the stunning Greek archipelago. Visit Santorini, Mykonos, and ancient ruins.",
+      "price": 2799.99,
+      "startDate": "2024-06-20",
+      "endDate": "2024-06-27",
+      "availableSlots": 15,
+      "totalSlots": 30
+    },
+    {
+      "id": "6",
+      "name": "Bali Retreat",
+      "imageUrl": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=800&q=80",
+      "description": "Find peace and tranquility in Bali's sacred temples, rice terraces, and pristine beaches.",
+      "price": 1799.99,
+      "startDate": "2024-07-05",
+      "endDate": "2024-07-12",
+      "availableSlots": 10,
+      "totalSlots": 20
+    },
+    {
+      "id": "7",
+      "name": "Iceland Northern Lights",
+      "imageUrl": "https://images.unsplash.com/photo-1579033461380-adb47c3eb938?auto=format&fit=crop&w=800&q=80",
+      "description": "Chase the aurora borealis and explore Iceland's dramatic landscapes, hot springs, and glaciers.",
+      "price": 2999.99,
+      "startDate": "2024-12-10",
+      "endDate": "2024-12-17",
+      "availableSlots": 8,
+      "totalSlots": 15
+    },
+    {
+      "id": "8",
+      "name": "Rio Carnival Experience",
+      "imageUrl": "https://images.unsplash.com/photo-1518639192441-8fce0a366e2e?auto=format&fit=crop&w=800&q=80",
+      "description": "Join the world's biggest party! Experience the vibrant culture, music, and dance of Rio's Carnival.",
+      "price": 2399.99,
+      "startDate": "2025-02-14",
+      "endDate": "2025-02-20",
+      "availableSlots": 20,
+      "totalSlots": 40
+    },
+    {
+      "id": "9",
+      "name": "Dubai Luxury Escape",
+      "imageUrl": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&q=80",
+      "description": "Experience the height of luxury in Dubai. Desert safaris, shopping festivals, and architectural marvels.",
+      "price": 3499.99,
+      "startDate": "2024-10-15",
+      "endDate": "2024-10-21",
+      "availableSlots": 12,
+      "totalSlots": 25
+    },
+    {
+      "id": "10",
+      "name": "Machu Picchu Trek",
+      "imageUrl": "https://images.unsplash.com/photo-1587595431973-160d0d94add1?auto=format&fit=crop&w=800&q=80",
+      "description": "Hike the legendary Inca Trail to Machu Picchu. Discover ancient ruins and breathtaking mountain views.",
+      "price": 2699.99,
+      "startDate": "2024-08-01",
+      "endDate": "2024-08-08",
+      "availableSlots": 6,
+      "totalSlots": 12
+    },
+    {
+      "id": "11",
+      "name": "Vietnam Food Tour",
+      "imageUrl": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?auto=format&fit=crop&w=800&q=80",
+      "description": "Savor the flavors of Vietnam from street food to cooking classes. Explore Hanoi, Ha Long Bay, and Ho Chi Minh City.",
+      "price": 1999.99,
+      "startDate": "2024-09-15",
+      "endDate": "2024-09-22",
+      "availableSlots": 10,
+      "totalSlots": 15
+    },
+    {
+      "id": "12",
+      "name": "Australian Outback Adventure",
+      "imageUrl": "https://images.unsplash.com/photo-1529108190281-9a4f620bc2d8?auto=format&fit=crop&w=800&q=80",
+      "description": "Journey through the heart of Australia. Visit Uluru, learn about Aboriginal culture, and spot unique wildlife.",
+      "price": 3299.99,
+      "startDate": "2024-07-20",
+      "endDate": "2024-07-28",
+      "availableSlots": 8,
+      "totalSlots": 16
+    },
+    {
+      "id": "13",
+      "name": "Swiss Alps Ski Trip",
+      "imageUrl": "https://images.unsplash.com/photo-1531310197839-ccf54634509e?auto=format&fit=crop&w=800&q=80",
+      "description": "Hit the slopes in the majestic Swiss Alps. Perfect for both beginners and advanced skiers.",
+      "price": 2899.99,
+      "startDate": "2024-12-20",
+      "endDate": "2024-12-27",
+      "availableSlots": 15,
+      "totalSlots": 25
+    },
+    {
+      "id": "14",
+      "name": "Moroccan Desert Tour",
+      "imageUrl": "https://images.unsplash.com/photo-1489493887464-892be6d1daae?auto=format&fit=crop&w=800&q=80",
+      "description": "From Marrakech to the Sahara, experience the magic of Morocco. Camp under the stars and ride camels through sand dunes.",
+      "price": 1899.99,
+      "startDate": "2024-10-05",
+      "endDate": "2024-10-12",
+      "availableSlots": 12,
+      "totalSlots": 20
+    },
+    {
+      "id": "15",
+      "name": "Caribbean Cruise",
+      "imageUrl": "https://images.unsplash.com/photo-1590523741831-ab7e8b8f9c7f?auto=format&fit=crop&w=800&q=80",
+      "description": "Island hop through the crystal-clear waters of the Caribbean. Visit multiple islands and enjoy water sports.",
+      "price": 2199.99,
+      "startDate": "2024-11-10",
+      "endDate": "2024-11-17",
+      "availableSlots": 25,
+      "totalSlots": 50
+    },
+    {
+      "id": "16",
+      "name": "Tuscany Wine Tour",
+      "imageUrl": "https://images.unsplash.com/photo-1523528283115-9bf9b1699245?auto=format&fit=crop&w=800&q=80",
+      "description": "Discover the flavors of Tuscany. Wine tasting, cooking classes, and visits to medieval villages.",
+      "price": 2499.99,
+      "startDate": "2024-09-25",
+      "endDate": "2024-10-01",
+      "availableSlots": 10,
+      "totalSlots": 16
+    },
+    {
+      "id": "17",
+      "name": "South Korean Culture Tour",
+      "imageUrl": "https://images.unsplash.com/photo-1534274867514-d5b47ef89ed7?auto=format&fit=crop&w=800&q=80",
+      "description": "Immerse yourself in K-culture. Visit temples, try K-beauty treatments, and enjoy K-pop experiences.",
+      "price": 2299.99,
+      "startDate": "2024-08-15",
+      "endDate": "2024-08-22",
+      "availableSlots": 15,
+      "totalSlots": 25
+    },
+    {
+      "id": "18",
+      "name": "Amazon Rainforest Expedition",
+      "imageUrl": "https://images.unsplash.com/photo-1516908205727-40afad9449a8?auto=format&fit=crop&w=800&q=80",
+      "description": "Explore the world's largest rainforest. Spot exotic wildlife and learn about indigenous cultures.",
+      "price": 2799.99,
+      "startDate": "2024-07-01",
+      "endDate": "2024-07-08",
+      "availableSlots": 8,
+      "totalSlots": 12
+    },
+    {
+      "id": "19",
+      "name": "Scottish Highland Tour",
+      "imageUrl": "https://images.unsplash.com/photo-1533826418470-0cef7eb8bdaa?auto=format&fit=crop&w=800&q=80",
+      "description": "Journey through Scotland's dramatic landscapes. Visit castles, distilleries, and mysterious lochs.",
+      "price": 2099.99,
+      "startDate": "2024-06-25",
+      "endDate": "2024-07-02",
+      "availableSlots": 12,
+      "totalSlots": 20
+    },
+    {
+      "id": "20",
+      "name": "Maldives Beach Getaway",
+      "imageUrl": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?auto=format&fit=crop&w=800&q=80",
+      "description": "Relax in paradise. Overwater bungalows, snorkeling, and pristine beaches await.",
+      "price": 3999.99,
+      "startDate": "2024-11-20",
+      "endDate": "2024-11-27",
+      "availableSlots": 10,
+      "totalSlots": 20
+    },
+    {
+      "id": "21",
+      "name": "India Golden Triangle",
+      "imageUrl": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=800&q=80",
+      "description": "Explore the cultural heritage of India. Visit the Taj Mahal, ancient forts, and vibrant markets.",
+      "price": 1999.99,
+      "startDate": "2024-10-10",
+      "endDate": "2024-10-17",
+      "availableSlots": 15,
+      "totalSlots": 30
+    },
+    {
+      "id": "22",
+      "name": "Norway Fjords Cruise",
+      "imageUrl": "https://images.unsplash.com/photo-1601439678777-b2b3c56fa627?auto=format&fit=crop&w=800&q=80",
+      "description": "Sail through Norway's stunning fjords. Witness natural wonders and charming coastal villages.",
+      "price": 2899.99,
+      "startDate": "2024-08-05",
+      "endDate": "2024-08-12",
+      "availableSlots": 20,
+      "totalSlots": 40
+    },
+    {
+      "id": "23",
+      "name": "Croatia Island Hopping",
+      "imageUrl": "https://images.unsplash.com/photo-1590523741831-ab7e8b8f9c7f?auto=format&fit=crop&w=800&q=80",
+      "description": "Explore the best of the Adriatic. Visit Dubrovnik, Split, and beautiful Croatian islands.",
+      "price": 2399.99,
+      "startDate": "2024-07-15",
+      "endDate": "2024-07-22",
+      "availableSlots": 12,
+      "totalSlots": 24
+    },
+    {
+      "id": "24",
+      "name": "Canadian Rockies Adventure",
+      "imageUrl": "https://images.unsplash.com/photo-1529108190281-9a4f620bc2d8?auto=format&fit=crop&w=800&q=80",
+      "description": "Explore the stunning Canadian Rockies. Hiking, wildlife watching, and breathtaking mountain views.",
+      "price": 2699.99,
+      "startDate": "2024-08-25",
+      "endDate": "2024-09-01",
+      "availableSlots": 18,
+      "totalSlots": 30
+    },
+    {
+      "id": "25",
+      "name": "Portuguese Wine Valley",
+      "imageUrl": "https://images.unsplash.com/photo-1442544213729-6a15f1611937?auto=format&fit=crop&w=800&q=80",
+      "description": "Discover the Douro Valley's wine heritage. Wine tasting, river cruises, and historic vineyards.",
+      "price": 2199.99,
+      "startDate": "2024-09-10",
+      "endDate": "2024-09-16",
+      "availableSlots": 14,
+      "totalSlots": 20
+    },
+    {
+      "id": "26",
+      "name": "Jordan Historical Journey",
+      "imageUrl": "https://images.unsplash.com/photo-1570214476695-19bd467e6f7a?auto=format&fit=crop&w=800&q=80",
+      "description": "Explore ancient Petra, float in the Dead Sea, and camp in Wadi Rum desert.",
+      "price": 2899.99,
+      "startDate": "2024-10-05",
+      "endDate": "2024-10-12",
+      "availableSlots": 16,
+      "totalSlots": 24
+    },
+    {
+      "id": "27",
+      "name": "New Zealand Adventure",
+      "imageUrl": "https://images.unsplash.com/photo-1507699622108-4be3abd695ad?auto=format&fit=crop&w=800&q=80",
+      "description": "Experience the ultimate adventure in New Zealand. Bungee jumping, hiking, and Lord of the Rings locations.",
+      "price": 3499.99,
+      "startDate": "2024-11-15",
+      "endDate": "2024-11-25",
+      "availableSlots": 12,
+      "totalSlots": 20
+    }
+  ]
+}
